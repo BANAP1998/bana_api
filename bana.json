@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "title": "Web Development",
+      "image": "https://images.pexels.com/photos/7163395/pexels-photo-7163395.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1  ",
+      "description": "A leading web development company specializing in crafting custom, responsive, and user-friendly websites. We deliver innovative digital solutions that enhance user experience and drive business growth, with a focus on quality, creativity, and cutting-edge technology."
+    },
+    {
+      "id": 2,
+      "title": "App Development",
+      "image": "https://images.pexels.com/photos/8145328/pexels-photo-8145328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 ",
+      "description": "A top app development company dedicated to creating high-quality, user-friendly mobile applications. We specialize in delivering innovative and scalable solutions that meet your business needs, leveraging the latest technology to ensure seamless performance and exceptional user experience."
+    },
+    {
+      "id": 3,
+      "title": "Software Development",
+      "image": "https://images.pexels.com/photos/205421/pexels-photo-205421.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1  ",
+      "description": "A premier software development company focused on delivering robust, scalable, and customized software solutions. We utilize cutting-edge technology to build software that meets your unique business requirements, enhancing efficiency, and driving growth with a commitment to quality and innovation."
+    },
+    {
+      "id": 4,
+      "title": "E-Commerce Websites",
+      "image": "https://images.pexels.com/photos/8062289/pexels-photo-8062289.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "A leading provider of e-commerce website development, offering tailored, secure, and user-friendly online stores. We create seamless shopping experiences with integrated payment gateways, responsive design, and powerful backend management, enabling businesses to reach and engage customers effectively."
+    },
+    {
+      "id": 5,
+      "title": "Healthcare Portal",
+      "image": "https://images.pexels.com/photos/4623202/pexels-photo-4623202.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 ",
+      "description": "A specialized healthcare portal development company that designs secure, user-centric platforms for patients and healthcare providers. We build portals with features like online consultations, appointment scheduling, and health record management, ensuring seamless access to medical services and improving patient care"
+      
+    },
+    {
+      "id": 6,
+      "title": "Educational App",
+      "image": "https://images.pexels.com/photos/3182773/pexels-photo-3182773.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "A premier developer of educational apps designed to enhance learning experiences. We create interactive and engaging applications with features like video tutorials, quizzes, and progress tracking, tailored to meet the needs of students and educators for effective and accessible education."
+    }
+  ]
